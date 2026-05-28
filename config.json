@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsecrypt",
+        "uuid": 11980260,
+        "checksum": "0mnfm9"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
